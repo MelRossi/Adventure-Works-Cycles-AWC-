@@ -77,7 +77,7 @@ Se diseñaron dos tableros principales:
 * **Gráfico Temporal:** Un gráfico combinado de columnas y línea (Ingresos, COGS y Utilidad Bruta) para analizar la evolución mensual y detectar patrones de estacionalidad.
 * **Mapa Geográfico:** Muestra la **cantidad de clientes por país**, lo que permite tomar decisiones estratégicas sobre expansión geográfica y priorización de territorios.
 
-### [cite_start]Tablero 2: Análisis Estados Unidos 
+###Tablero 2: Análisis Estados Unidos 
 
 * **Matriz Detallada:** Presenta Ingresos, COGS, Utilidad Bruta y Utilidad Neta para cada categoría de producto y región geográfica, incluyendo las **variaciones interanuales**. Esta visualización es clave para detectar áreas de oportunidad o productos menos rentables.
 * **Gráfico de Líneas:** Permite comparar la evolución de los **Ingresos acumulados** a lo largo de los años, contrastando el período actual con el anterior.
@@ -87,7 +87,7 @@ Se diseñaron dos tableros principales:
 
 ## 🔍 Resultados y Conclusiones Principales
 
-[cite_start]El análisis del desempeño de AWC arrojó los siguientes hallazgos:
+El análisis del desempeño de AWC arrojó los siguientes hallazgos:
 
 * **Rentabilidad Saludable:** El **margen bruto se mantiene en niveles saludables, superando el 41%**, indicando un control eficiente de los costos de producción. La **utilidad neta alcanzó un margen cercano al 30%**, lo que refleja eficiencia operativa.
 * **Foco Geográfico:** Los países con mayor número de clientes y concentración de ingresos son **Estados Unidos, Reino Unido y Canadá**.
