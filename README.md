@@ -72,7 +72,7 @@ Se diseñaron dos tableros principales:
 
 ### Tablero 1: Reporte Financiero 
 
-***KPI Cards:** Muestran métricas clave (Ingresos, COGS, Utilidad Bruta, Utilidad Neta). Incluyen indicadores de **variación respecto al período anterior**, junto con el porcentaje de variación, facilitando la detección rápida de crecimiento o decrecimiento.
+* **KPI Cards:** Muestran métricas clave (Ingresos, COGS, Utilidad Bruta, Utilidad Neta). Incluyen indicadores de **variación respecto al período anterior**, junto con el porcentaje de variación, facilitando la detección rápida de crecimiento o decrecimiento.
 * **Medidores (Tacómetros):** Visualizan los **márgenes** (bruto y neto), ratios de costos y porcentaje COGS, ayudando a comprender qué tan cerca se encuentra la empresa de valores óptimos de rentabilidad.
 * **Gráfico Temporal:** Un gráfico combinado de columnas y línea (Ingresos, COGS y Utilidad Bruta) para analizar la evolución mensual y detectar patrones de estacionalidad.
 * **Mapa Geográfico:** Muestra la **cantidad de clientes por país**, lo que permite tomar decisiones estratégicas sobre expansión geográfica y priorización de territorios.
