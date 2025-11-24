@@ -70,14 +70,14 @@ Creación de la columna "Trimestre" en la tabla DimDate para el análisis tempor
 
 Se diseñaron dos tableros principales:
 
-###Tablero 1: Reporte Financiero 
+### Tablero 1: Reporte Financiero 
 
 ***KPI Cards:** Muestran métricas clave (Ingresos, COGS, Utilidad Bruta, Utilidad Neta). Incluyen indicadores de **variación respecto al período anterior**, junto con el porcentaje de variación, facilitando la detección rápida de crecimiento o decrecimiento.
 * **Medidores (Tacómetros):** Visualizan los **márgenes** (bruto y neto), ratios de costos y porcentaje COGS, ayudando a comprender qué tan cerca se encuentra la empresa de valores óptimos de rentabilidad.
 * **Gráfico Temporal:** Un gráfico combinado de columnas y línea (Ingresos, COGS y Utilidad Bruta) para analizar la evolución mensual y detectar patrones de estacionalidad.
 * **Mapa Geográfico:** Muestra la **cantidad de clientes por país**, lo que permite tomar decisiones estratégicas sobre expansión geográfica y priorización de territorios.
 
-###Tablero 2: Análisis Estados Unidos 
+### Tablero 2: Análisis Estados Unidos 
 
 * **Matriz Detallada:** Presenta Ingresos, COGS, Utilidad Bruta y Utilidad Neta para cada categoría de producto y región geográfica, incluyendo las **variaciones interanuales**. Esta visualización es clave para detectar áreas de oportunidad o productos menos rentables.
 * **Gráfico de Líneas:** Permite comparar la evolución de los **Ingresos acumulados** a lo largo de los años, contrastando el período actual con el anterior.
